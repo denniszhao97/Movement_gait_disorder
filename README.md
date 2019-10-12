@@ -1,7 +1,6 @@
-Code for MOVEMENT DISORDER GAIT DATA Project
+Dennis Zhao's copy of code for MOVEMENT DISORDER GAIT DATA Project
 
-By
-Richard Sowers <r-sowers@illinois.edu>, website
+By Richard Sowers <r-sowers@illinois.edu>, website
 <http://publish.illinois.edu/r-sowers/>
 based on work led by
 Manuel Hernandez <mhernand@illinois.edu>, website
